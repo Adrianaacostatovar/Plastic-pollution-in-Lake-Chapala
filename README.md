@@ -2,7 +2,7 @@
 
 **MATLAB implementation of a compartmental model for long-term plastic accumulation, vulnerability to waste-management changes, and seasonal removal scenarios in Lake Chapala, Mexico.**
 
-**Authors (listed in `Run.m`):** Adriana Acosta-Tovar and Roberto A. Saenz.
+**Authors:** Adriana Acosta-Tovar and Roberto A. Saenz.
 
 This repository contains the numerical model and scripts used to investigate the evolution of plastic concentrations in Lake Chapala from 1950 to 2100. The simulations examine a reference trajectory, changes in wastewater treatment and plastic-waste leakage, seasonal surface and sediment removal, and sensitivity to uncertain loss and transfer parameters. The model supports exploratory scenario comparisons; it is **not** a reconstruction of a measured historical time series.
 
@@ -139,7 +139,7 @@ These runs are **deterministic ODE simulations under sampled parameter sets**, n
 
 If you use this code, please cite the associated manuscript:
 
-> Acosta-Tovar, A., and Saenz, R. A. *Plastic pollution in Lake Chapala, Mexico: Long-term accumulation, vulnerability to management changes, and removal scenarios*. Publication details and DOI to be added when available.
+> Acosta-Tovar, A., and Saenz, R. A. *Plastic pollution in Lake Chapala, Mexico: Long-term accumulation, vulnerability to management changes, and removal scenarios*. Publication details and DOI ().
 
 ## License
 
